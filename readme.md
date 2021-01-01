@@ -74,5 +74,6 @@
         git init
         git add .
         git commit -m "Creating the Vue App"
-	    git remote add origin https://github.com/Digitalthink-es/Intro-to-Vue-3.git
-	    git push -u origin master
+        git remote add origin https://github.com/Digitalthink-es/Intro-to-Vue-3.git
+        git branch -M main
+        git push -u origin main
